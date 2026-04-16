@@ -8,7 +8,7 @@ This notebook loads multiple years of Boston crime incident CSVs, merges them in
 
 ## Dataset
 
-- **Source:** Boston Police Department RMS (Records Management System) crime incident reports
+- **Source:** Boston Police Department RMS (Records Management System) crime incident reports — [Crime Incident Reports (August 2015 to Date)](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system)
 - **Format:** Multiple CSV files stored in Google Drive (`BCD_datasets/`)
 - **Excluded files:**
   - `RMS_Crime_Incident_Field_Explanation.csv` — data dictionary
