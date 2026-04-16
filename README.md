@@ -88,8 +88,8 @@ Bar chart showing total incident volume per Boston police district.
 
 ## To Do
 
-- [ ] **Interactive website** — build a dashboard (Streamlit or Gradio) with filterable charts, district maps, and time-based drill-downs
-- [ ] **Machine learning** — crime prediction model (e.g., classify UCR part or predict incident hotspots by district/time)
+- [ ] **Interactive website** — build a dashboard with filterable charts, district maps, and time-based drill-downs
+- [ ] **Machine learning** — crime prediction model
 
 ## Notes
 
